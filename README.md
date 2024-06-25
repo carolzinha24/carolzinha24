@@ -1,16 +1,16 @@
-## Hi there 👋
+##Boas vindas ao meu Perfil🫶
 
-<!--
-**carolzinha24/carolzinha24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carolyne Moreira
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos
+
+### Você entra em contato comigo📫
+
+00001114974638sp@al.educacao.sp.gov.br
+
+
+![inside-out-2-joy](https://github.com/carolzinha24/carolzinha24/assets/173792174/5bbc9f81-7ca9-447a-a3f0-b3898e90ee3b)
